@@ -67,9 +67,5 @@ python speech_to_text.py
 ## 🤝 Contributing
 Pull requests are welcome! If you'd like to contribute, please open an issue first to discuss proposed changes.
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-👨‍💻 Developed by **[Your Name]**
+👨‍💻 Developed by Naveen K
 
